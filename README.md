@@ -10,8 +10,9 @@
 ---
 
 ### 🏆 Professional Highlights
-- **Algorithm Expert:** - **CPE (Collegiate Programming Examination):** 專業級 (5/7 題) 認證。
-  - **UVa Online Judge:** 累計解題 **700+**，建立系統化演算法知識庫。
+- **Algorithm Expert:** 
+    - **CPE (Collegiate Programming Examination):** 專業級 (5/7 題) 認證。
+    - **UVa Online Judge:** 累計解題 **700+**，建立系統化演算法知識庫。
 - **Certifications:** 
     - IPAS 物聯網應用工程師 (初級)
     - IPAS 資訊安全工程師 (初級)
